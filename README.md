@@ -6,6 +6,4 @@ the new tool for fix 4000/5000 CPU's some problem
 .. code:: bash
 
     pip install pyinstaller
-
-
     pyinstaller -F acf.py
